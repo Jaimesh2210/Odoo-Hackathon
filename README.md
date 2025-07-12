@@ -32,6 +32,6 @@ Lightweight admin panel for oversight
 
 ------------------------------------------------------------
 Kirtan Totla :- 22se02ce039@ppsu.ac.in
-Zeel Jagguwala :- 22se02ce010@ppsu.ac.in
+Zeel Jaguwala :- 22se02ce010@ppsu.ac.in
 Jaimesh Rana :- 22se02ce025@ppsu.ac.in
 Jainil Chhowala :- 22se02ml012@ppsu.ac.in
